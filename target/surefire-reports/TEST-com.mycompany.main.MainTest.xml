@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mycompany.main.MainTest" time="0.159" tests="40" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="25"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Student\Documents\NetBeansProjects\Main\target\test-classes;C:\Users\Student\Documents\NetBeansProjects\Main\target\classes;C:\Users\Student\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.3\junit-jupiter-api-5.10.3.jar;C:\Users\Student\.m2\repository\org\junit\platform\junit-platform-commons\1.10.3\junit-platform-commons-1.10.3.jar;C:\Users\Student\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Student\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.3\junit-jupiter-params-5.10.3.jar;C:\Users\Student\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.3\junit-jupiter-engine-5.10.3.jar;C:\Users\Student\.m2\repository\org\junit\platform\junit-platform-engine\1.10.3\junit-platform-engine-1.10.3.jar;C:\Users\Student\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Africa/Johannesburg"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="25"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Apache NetBeans\jdk\bin"/>
+    <property name="sun.java.command" value="C:\Users\Student\AppData\Local\Temp\surefire15381081785413468503\surefirebooter-20260918170948572_3.jar C:\Users\Student\AppData\Local\Temp\surefire15381081785413468503 2026-09-18T17-09-48_082-jvmRun1 surefire-20260918170948572_1tmp surefire_0-20260918170948572_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="com.mycompany.main.MainTest"/>
+    <property name="surefire.test.class.path" value="C:\Users\Student\Documents\NetBeansProjects\Main\target\test-classes;C:\Users\Student\Documents\NetBeansProjects\Main\target\classes;C:\Users\Student\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.3\junit-jupiter-api-5.10.3.jar;C:\Users\Student\.m2\repository\org\junit\platform\junit-platform-commons\1.10.3\junit-platform-commons-1.10.3.jar;C:\Users\Student\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Student\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.3\junit-jupiter-params-5.10.3.jar;C:\Users\Student\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.3\junit-jupiter-engine-5.10.3.jar;C:\Users\Student\.m2\repository\org\junit\platform\junit-platform-engine\1.10.3\junit-platform-engine-1.10.3.jar;C:\Users\Student\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Student"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-10-21"/>
+    <property name="java.home" value="C:\Program Files\Apache NetBeans\jdk"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Student\Documents\NetBeansProjects\Main"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Student\AppData\Local\Temp\surefire15381081785413468503\surefirebooter-20260918170948572_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="25.0.1+8-LTS"/>
+    <property name="user.name" value="Student"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-25.0.1+8"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\Apache NetBeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\Student\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\Student\AppData\Local\Temp\"/>
+    <property name="java.version" value="25.0.1"/>
+    <property name="user.dir" value="C:\Users\Student\Documents\NetBeansProjects\Main"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Apache NetBeans\jdk\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\180\Tools\Binn\;C:\Program Files\Microsoft SQL Server\170\DTS\Binn\;C:\Program Files\php-8.5.2-Win32-vs17-x64;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Student\AppData\Local\Microsoft\WindowsApps;C:\Users\Student\AppData\Roaming\npm;C:\Users\Student\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Student\.dotnet\tools;C:\Users\Student\AppData\Roaming\npm;C:\Program Files (x86)\MongoDB Atlas CLI\;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="25.0.1+8-LTS"/>
+    <property name="stdin.encoding" value="Cp1252"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="69.0"/>
+  </properties>
+  <testcase name="checkPasswordComplexity_noNumber_returnsFalse" classname="com.mycompany.main.MainTest" time="0.039"/>
+  <testcase name="checkCellphoneNumber_wrongCountryCode_returnsFalse" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="registerUser_allDetailsInvalid_showsAllErrorsThenAcceptsValidRetry" classname="com.mycompany.main.MainTest" time="0.006"/>
+  <testcase name="checkPasswordComplexity_validPassword_returnsTrue" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="registerUser_onlyPasswordInvalid_showsOnlyPasswordError" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="returnLoginStatus_success_returnsWelcomeMessage" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="checkCellphoneNumber_tooManyDigits_returnsFalse" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="loginUser_wrongUsername_returnsFalse" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="main_registerThenLoginWithCorrectDetails_printsWelcome" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="loginUser_emptyCredentials_returnsFalse" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="registerUser_onlyUsernameInvalid_showsOnlyUsernameError" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="checkUserName_tooLong_returnsFalse" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="checkPasswordComplexity_exactlyEightCharacters_returnsTrue" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="checkUserName_validUsername_returnsTrue" classname="com.mycompany.main.MainTest" time="0.0"/>
+  <testcase name="registerUser_validDetails_savesDetailsAndPrintsSuccess" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="checkPasswordComplexity_noSpecialCharacter_returnsFalse" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="checkUserName_emptyString_returnsFalse" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="checkUserName_underscoreAtAnyPosition_returnsTrue" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="returnLoginStatus_failure_returnsErrorMessage" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="checkCellphoneNumber_tooFewDigits_returnsFalse" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="checkUserName_tooShort_returnsFalse" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="checkCellphoneNumber_containsLetters_returnsFalse" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="checkPasswordComplexity_noLowercase_returnsFalse" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="checkCellphoneNumber_emptyString_returnsFalse" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="loginUser_noRegisteredUser_returnsFalse" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="registerUser_onlyCellphoneInvalid_showsOnlyCellphoneError" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="loginUser_correctCredentials_returnsTrue" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="checkCellphoneNumber_containsSpaces_returnsFalse" classname="com.mycompany.main.MainTest" time="0.0"/>
+  <testcase name="loginUser_wrongPassword_returnsFalse" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="checkUserName_noUnderscore_returnsFalse" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="checkCellphoneNumber_validNumber_returnsTrue" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="registerUser_failedAttempt_doesNotSaveInvalidDetails" classname="com.mycompany.main.MainTest" time="0.002"/>
+  <testcase name="main_registerThenLoginWithWrongPassword_printsFailure" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="loginUser_bothWrong_returnsFalse" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="checkCellphoneNumber_missingInternationalCode_returnsFalse" classname="com.mycompany.main.MainTest" time="0.0"/>
+  <testcase name="checkPasswordComplexity_emptyString_returnsFalse" classname="com.mycompany.main.MainTest" time="0.0"/>
+  <testcase name="checkPasswordComplexity_tooShort_returnsFalse" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="loginUser_isCaseSensitive" classname="com.mycompany.main.MainTest" time="0.001"/>
+  <testcase name="checkPasswordComplexity_noUppercase_returnsFalse" classname="com.mycompany.main.MainTest" time="0.0"/>
+  <testcase name="main_invalidRegistrationIsRetriedBeforeLogin" classname="com.mycompany.main.MainTest" time="0.002"/>
+</testsuite>
